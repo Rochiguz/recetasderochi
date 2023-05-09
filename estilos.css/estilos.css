@@ -1,5 +1,12 @@
-body {background-color:orange;font-size: medium;font-family: cursive;}
+body {background-color:orange;font-size: medium;font-family: cursive;background-image: url(../imagen/avena.jpg);background-repeat: no-repeat;background-position: top;
+   }
 ul{font-size: medium; font-family: cursive;}
 ol{font-size: medium; font-family: cursive;}
 .purple{color:purple}
 #purple{color: purple}
+
+header{background-color: yellow}
+nav{background-color: orange;margin: 35px;padding: 15px;border: 6px dotted}
+section{background-color: skyblue;margin: 35px;padding: 15px;border: 6px solid}
+aside{background-color:green }
+footer{background-color: grey;margin: 20px;padding: 15px;border: 10px dotted}
